@@ -47,3 +47,12 @@
 					^1^
 		-	Updated:
 			~	README.txt								[dir/]
+
+**BRANCH 1**
+	**VERSION 1.0**
+		-	Errors have been corrected, website functionality is up
+		-	Added:
+			~	1
+					(Branch)
+		-	Updated:
+			~	README.txt								[dir/]
