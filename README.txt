@@ -47,6 +47,11 @@
 					^1^
 		-	Updated:
 			~	README.txt								[dir/]
+	**VERSION 0.1**
+		-	Merged '1' into '0'
+		-	Pushed changes to remote repo 'origin'
+		-	Updated:
+			~	README.txt								[dir/]
 
 **BRANCH 1**
 	**VERSION 1.0**
