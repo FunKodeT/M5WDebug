@@ -52,6 +52,11 @@
 		-	Pushed changes to remote repo 'origin'
 		-	Updated:
 			~	README.txt								[dir/]
+	**VERSION 0.2**
+		-	Included GitHub Pages link for functioning site
+			@	https://funkodet.github.io/M5WDebug/
+		-	Updated:
+			~	README.txt								[dir/]
 
 **BRANCH 1**
 	**VERSION 1.0**
