@@ -56,3 +56,14 @@
 					(Branch)
 		-	Updated:
 			~	README.txt								[dir/]
+			~	index.html								[dir/]
+					^0.0	=	1.0^
+			~	script.js								[dir/]
+					^0.0	=	1.0^
+			~	styles.css								[dir/]
+					^0.0	=	1.0^
+	**VERSION 1.1**
+		-	Prepped for merge
+		-	Updated:
+			~	README.txt								[dir/]
+			
